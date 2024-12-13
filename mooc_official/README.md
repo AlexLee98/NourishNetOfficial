@@ -8,11 +8,11 @@ Prerequisite
 
 
 Run the Meal Planning Agentic System
-1. Download and install Docker Desktop a. https://docs.docker.com/engine/install/
-2. Download and install langgraph studio 0.0.30 a. https://github.com/langchain-ai/langgraph-studio/releases
-3. Download the nourishNet githiub repo a. https://github.com/AlexLee98/NourishNet/tree/main
-4. Create a Langsmith account a. https://smith.langchain.com/
-5. Optional: Create a Loop Message iMessage API free sandbox account (if you want to receive the shopping list from the shopper agent via text messaging) a. https://loopmessage.com/server
+1. Download and install Docker Desktop -   https://docs.docker.com/engine/install/
+2. Download and install langgraph studio 0.0.30 -  https://github.com/langchain-ai/langgraph-studio/releases
+3. Download the nourishNet github repo -  https://github.com/AlexLee98/NourishNetOfficial/tree/0d0bad54442d4522e02aceeb26a6d63185f4807a/mooc_official
+4. Create a Langsmith account -  https://smith.langchain.com/
+5. Optional: Create a Loop Message iMessage API free sandbox account (if you want to receive the shopping list from the shopper agent via text messaging) -  https://loopmessage.com/server
 6. Edit the mooc/env file to enter API keys for the following services
    
 	a. Anthropic Claude LLM
